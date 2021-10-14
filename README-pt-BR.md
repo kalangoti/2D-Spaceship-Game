@@ -3,23 +3,25 @@
 </h1>
 
 <h3 align="center">
-    A spaceship game developed in Java with 2D graphics
+    Um jogo de nave espacial desenvolvido em Java com gráficos 2D
 </h3>
 
 <p align="center">
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kalangoti/2D-Spaceship-Game?style=for-the-badge&color=success">
+    <img alt="GitHub top linguagem" src="https://img.shields.io/github/languages/top/kalangoti/2D-Spaceship-Game?
+style=for-the-badge&color=success">
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kalangoti/2D-Spaceship-Game?color=success">
+  <img alt="GitHub linguagem contador" src="https://img.shields.io/github/languages/count/kalangoti/2D-Spaceship-Game?
+color=success">
 
-  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/kalangoti/2D-Spaceship-Game">
+  <img alt="GitHub tamanho do repositório" src="https://img.shields.io/github/repo-size/kalangoti/2D-Spaceship-Game">
 
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kalangoti/2D-Spaceship-Game">
 
   <a href="https://github.com/kalangoti/2D-Spaceship-Game/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalangoti/2D-Spaceship-Game/master?
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/kalangoti/2D-Spaceship-Game/master?
 color=informational">
   </a>
 
@@ -35,11 +37,11 @@ color=informational">
 </p>
 
 <h4 align="center"> 
-	🚧  In progress...  🚧
+	🚧  Em construção...  🚧
 </h4>
 
 ## 📝 License
 
-This project has the license [MIT](./LICENSE).
+Este projeto possui a licença [MIT](./LICENSE).
 
-**Open Software!**
+**Software Livre!**
