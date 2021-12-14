@@ -33,6 +33,8 @@
 	🚧  In progress...  🚧
 </h4>
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=8771fd7c392f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## 📝 License
 
 This project has the license [MIT](./LICENSE).
