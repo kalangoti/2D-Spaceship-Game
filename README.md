@@ -18,11 +18,6 @@
 
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kalangoti/2D-Spaceship-Game">
 
-  <a href="https://github.com/kalangoti/2D-Spaceship-Game/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalangoti/2D-Spaceship-Game/master?
-color=informational">
-  </a>
-
   <img alt="GitHub license" src="https://img.shields.io/github/license/kalangoti/2D-Spaceship-Game">
 
   <a href="https://github.com/kalangoti/2D-Spaceship-Game/stargazers">
